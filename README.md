@@ -32,4 +32,4 @@ To view the Tableau file:
 2. Open it using Tableau Desktop. If you don't have it installed, download it from [Tableau's official website](https://www.tableau.com/products/desktop).
 
 ## Contact
-For queries or collaborations, feel free to reach out via [your-email@example.com].
+For queries or collaborations, feel free to reach out via [mskhatri03@yahoo.com].
